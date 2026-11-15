@@ -47,7 +47,7 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "6.0.10",
+    "@vitejs/plugin-vue": "6.0.11",
     "auto-changelog": "2.7.0",
     "release-it": "21.1.2",
     "typescript": "6.0.3",
